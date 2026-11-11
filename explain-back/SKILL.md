@@ -1,28 +1,30 @@
 ---
 name: explain-back
-description: Restate what a user means by a request and outline the work it would require, without carrying out the work. Use when the user asks for an explain-back, wants their request interpreted, or is checking alignment before execution.
+description: Research a request using read-only context, explain what the user means, and recommend the work that should be done without carrying it out. Use when the user asks for an explain-back or wants interpretation before execution.
 metadata:
-  short-description: Restate intent and outline next steps
+  short-description: Research intent and recommend next steps
 ---
 
 # Explain Back
 
-Help the user check that their request has been understood before any execution.
+Help the user check that their request has been understood and receive a grounded recommendation before any execution.
 
 When this skill applies:
 
-1. Read the user's request and relevant conversation context.
-2. Briefly say what you understand the user wants, using plain language and preserving their scope and constraints.
-3. Outline the concrete work that would be needed to fulfill it. Keep this at the level of actions or deliverables, not implementation code.
-4. Call out material ambiguity or assumptions. Ask a focused question only when the answer would change the interpretation or the work required.
-5. Stop after the explanation. Do not write or modify code, edit files, run commands, browse, use apps, or otherwise carry out the described task. Wait for the user to authorize or request execution in a later message.
+1. Read the request and relevant conversation context to determine the user's intended outcome, scope, and constraints.
+2. Do focused, read-only research before responding when it can improve the interpretation or recommendation. For repository work, inspect applicable project instructions and the relevant files or documentation. For claims that are current, uncertain, or depend on a named external source, consult authoritative sources when available. Do not imply that you researched something you could not access.
+3. Separate what the context or research establishes from what you infer. Use the evidence to recommend what should be done, in a practical order, including important dependencies or likely deliverables.
+4. Resolve ambiguity with the best reasonable assumption supported by the context and research. State material assumptions plainly so the user can correct them. Never ask open or follow-up questions; if an important fact remains unknown, state the assumption and how it limits the recommendation.
+5. Stop after explaining the request and recommending the work. Do not change files, write or modify code, run tests, or carry out external actions. Read-only inspection and research are allowed; implementation is not.
 
-Keep the response concise. A useful shape is:
+Keep the response concise and specific. Prefer this shape:
 
-**What I think you mean:** …
+**My understanding:** …
 
-**What would need to be done:** …
+**What I found:** … (include only useful findings; distinguish facts from inference)
 
-**Open question:** … (only if needed)
+**What I think should be done:** …
 
-Do not invent requirements, expand the requested scope, or present inferred details as facts. If the context already answers a likely question, use that context rather than asking again.
+**Assumptions:** … (include material assumptions; do not include questions)
+
+Do not invent requirements, expand scope, or present an inference as a fact. If research does not change or strengthen the recommendation, keep the findings brief.
