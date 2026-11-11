@@ -27,4 +27,6 @@ Keep the response concise and specific. Prefer this shape:
 
 **Assumptions:** … (include material assumptions; do not include questions)
 
+Do not mention this skill or narrate the process followed. Do not add meta disclaimers about not changing files, running tests, or carrying out the request. Present the understanding, useful findings, recommendation, and material assumptions directly. Mention a limitation only when it is substantively relevant to the recommendation, and phrase it as a fact or assumption rather than a disclaimer.
+
 Do not invent requirements, expand scope, or present an inference as a fact. If research does not change or strengthen the recommendation, keep the findings brief.
