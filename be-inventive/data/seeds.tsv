@@ -1,0 +1,349 @@
+visual	method	woodcut
+visual	method	screen print
+visual	method	rubber stamp
+visual	method	spray stencil
+visual	method	cut paper collage
+visual	method	photocopy zine
+visual	method	gouache
+visual	method	ink brush
+visual	method	ballpoint sketch
+visual	method	marker on cardboard
+visual	method	LED dot matrix
+visual	method	old CRT screen
+visual	method	thermal receipt printer
+visual	method	brutalist web page
+visual	method	early 3D video game
+visual	method	glitched video frame
+visual	method	airport departure board
+visual	method	flash film photo
+visual	method	long exposure photo
+visual	method	infrared photo
+visual	method	x-ray image
+visual	method	thermal camera image
+visual	method	satellite image
+visual	method	microscope image
+visual	method	security camera still
+visual	method	weather radar map
+visual	method	neon tubes
+visual	method	stained glass
+visual	method	mosaic tiles
+visual	method	glazed ceramic
+visual	method	glossy 3D render
+visual	method	chrome and glass render
+visual	method	clay model photo
+visual	method	folded paper
+visual	method	carved wood relief
+visual	color	one ink only
+visual	color	black and white with one accent
+visual	color	two colors that clash
+visual	color	colors taken from the subject's material
+visual	color	full color with one hue in charge
+visual	color	very pale and high key
+visual	color	very dark and low key
+visual	color	fluorescent
+visual	color	only earth colors
+visual	color	metallic
+visual	color	colors of a place at a set hour
+visual	color	gray with one warm spot
+visual	color	cold colors only
+visual	color	warm colors only
+visual	color	the colors of a machine screen
+visual	color	colors of food
+visual	layout	subject huge and cropped by the edges
+visual	layout	subject tiny in a large empty field
+visual	layout	seen from straight above
+visual	layout	seen from far below
+visual	layout	one detail very close
+visual	layout	one thing repeated many times
+visual	layout	split into two halves
+visual	layout	the text is the image
+visual	layout	strong diagonal
+visual	layout	low and off center
+visual	layout	deep layers from front to back
+visual	layout	a crowd of small parts
+visual	layout	a single line across the frame
+visual	layout	framed by something in front
+visual	layout	upside down or turned
+visual	layout	one big shape and nothing else
+visual	type	hand lettered
+visual	type	cut out letters
+visual	type	stencil letters
+visual	type	tall condensed
+visual	type	very wide
+visual	type	old style serif
+visual	type	typewriter
+visual	type	flowing script
+visual	type	stacked words
+visual	type	type on a curve
+visual	type	only small type
+visual	type	one giant word
+visual	type	letters built from the subject
+visual	type	mixed found letters
+visual	type	no type at all if allowed
+visual	verb	trade
+visual	verb	hide
+visual	verb	build
+visual	verb	repair
+visual	verb	grow
+visual	verb	deliver
+visual	verb	borrow
+visual	verb	listen
+visual	verb	burn
+visual	verb	wash
+visual	verb	rescue
+visual	verb	measure
+visual	scale	one person
+visual	scale	a family
+visual	scale	a street
+visual	scale	a whole town
+visual	scale	a crowd of strangers
+visual	scale	a machine
+visual	scale	an animal
+visual	scale	a single room
+visual	setting	a rooftop
+visual	setting	a parking lot after closing
+visual	setting	a highway service station
+visual	setting	a night bus
+visual	setting	a housing block courtyard
+visual	setting	a shopping mall basement
+visual	setting	the industrial edge of town
+visual	setting	a train station
+visual	setting	a market in the rain
+visual	setting	a laundromat
+visual	setting	a server room
+visual	setting	a school gym
+visual	setting	a supermarket at closing time
+visual	setting	an apartment stairwell
+visual	setting	a playground at dusk
+visual	setting	a phone repair stall
+visual	region	Georgia (the country)
+visual	region	northern Chile
+visual	region	Kerala
+visual	region	Hokkaido
+visual	region	the Scottish Highlands
+visual	region	Anatolia
+visual	region	Sicily
+visual	region	Ghana
+visual	region	Mongolia
+visual	region	Quebec
+visual	region	Java
+visual	region	Oaxaca
+visual	region	Morocco
+visual	region	Finnish Lapland
+visual	region	the Philippines
+visual	region	Patagonia
+visual	region	Vietnam
+visual	region	Iceland
+visual	region	Poland
+visual	region	Portugal
+visual	anchor	ladder
+visual	anchor	bicycle
+visual	anchor	glove
+visual	anchor	mirror
+visual	anchor	bread
+visual	anchor	magnet
+visual	anchor	compass
+visual	anchor	hinge
+visual	anchor	fog
+visual	anchor	bee
+visual	anchor	copper
+visual	anchor	thread
+visual	anchor	lamp
+visual	anchor	drum
+visual	anchor	bridge
+visual	anchor	key
+visual	anchor	feather
+visual	anchor	brick
+visual	anchor	cloud
+visual	anchor	mushroom
+visual	anchor	no single object, build it from a pattern of the place
+visual	anchor	no single object, only type
+visual	anchor	no single object, a crowd of people
+visual	anchor	no single object, numbers or data from the subject
+visual	anchor	no single object, a field of light or color
+visual	anchor	no single object, the surface of the place up close
+text	voice	a witness in first person
+text	voice	instructions in second person
+text	voice	a plain list
+text	voice	a short letter
+text	voice	overheard dialogue
+text	voice	one long sentence
+text	voice	short fragments
+text	voice	a note left for someone
+text	voice	a review by someone tired
+text	voice	a child explaining it
+text	voice	someone who disagrees
+text	voice	a voice from the future looking back
+text	entry	a sound
+text	entry	a smell
+text	entry	a single object
+text	entry	a mistake
+text	entry	a rule
+text	entry	a place
+text	entry	the ending
+text	entry	a body feeling
+text	entry	a thing that is missing
+text	entry	a complaint
+text	entry	a habit
+text	entry	a misunderstanding
+text	entry	a gesture
+text	register	plain
+text	register	formal
+text	register	dry
+text	register	warm
+text	register	blunt
+text	register	playful
+text	register	terse
+text	register	careful
+text	register	nervous
+text	register	proud
+text	setting	a rooftop
+text	setting	a parking lot after closing
+text	setting	a night bus
+text	setting	a train station
+text	setting	a market in the rain
+text	setting	a laundromat
+text	setting	a school gym
+text	setting	an apartment stairwell
+text	region	Georgia (the country)
+text	region	northern Chile
+text	region	Kerala
+text	region	Hokkaido
+text	region	the Scottish Highlands
+text	region	Sicily
+text	region	Ghana
+text	region	Mongolia
+text	region	Quebec
+text	region	Oaxaca
+text	region	Morocco
+text	region	Vietnam
+text	region	Iceland
+text	anchor	ladder
+text	anchor	bicycle
+text	anchor	glove
+text	anchor	mirror
+text	anchor	bread
+text	anchor	magnet
+text	anchor	compass
+text	anchor	hinge
+text	anchor	fog
+text	anchor	bee
+text	anchor	copper
+text	anchor	thread
+text	anchor	lamp
+text	anchor	bridge
+text	anchor	no single object, build it from a pattern of the place
+text	anchor	no single object, only type
+text	anchor	no single object, a crowd of people
+text	anchor	no single object, numbers or data from the subject
+idea	verb	trade
+idea	verb	hide
+idea	verb	build
+idea	verb	repair
+idea	verb	sort
+idea	verb	follow
+idea	verb	trap
+idea	verb	grow
+idea	verb	deliver
+idea	verb	swap
+idea	verb	borrow
+idea	verb	steal
+idea	verb	listen
+idea	verb	stack
+idea	verb	balance
+idea	verb	burn
+idea	verb	wash
+idea	verb	guess
+idea	verb	rescue
+idea	verb	measure
+idea	constraint	only one try
+idea	constraint	it gets worse when you wait
+idea	constraint	you cannot see it directly
+idea	constraint	someone else controls half of it
+idea	constraint	all of it is borrowed and must go back
+idea	constraint	it only works in one place
+idea	constraint	two rules that fight
+idea	constraint	the tool wears out with use
+idea	constraint	the crowd decides
+idea	constraint	you are too small for it
+idea	constraint	nobody speaks the same language
+idea	constraint	the reward is also the cost
+idea	constraint	it must be done in silence
+idea	constraint	it happens to many at once
+idea	scale	one person
+idea	scale	a family
+idea	scale	a street
+idea	scale	a whole town
+idea	scale	a crowd of strangers
+idea	scale	a machine
+idea	scale	an animal
+idea	scale	a single room
+idea	scale	two rivals
+idea	scale	a team that does not get along
+idea	pressure	a deadline
+idea	pressure	a rival
+idea	pressure	a debt
+idea	pressure	weather
+idea	pressure	a rule that changes
+idea	pressure	noise
+idea	pressure	hunger
+idea	pressure	a promise
+idea	pressure	a rumor
+idea	pressure	running out of space
+idea	pressure	a guest who will not leave
+idea	pressure	fatigue
+idea	setting	a rooftop
+idea	setting	a parking lot after closing
+idea	setting	a highway service station
+idea	setting	a night bus
+idea	setting	a housing block courtyard
+idea	setting	a shopping mall basement
+idea	setting	the industrial edge of town
+idea	setting	a train station
+idea	setting	a market in the rain
+idea	setting	a laundromat
+idea	setting	a server room
+idea	setting	a school gym
+idea	setting	a supermarket at closing time
+idea	setting	an apartment stairwell
+idea	setting	a playground at dusk
+idea	region	Georgia (the country)
+idea	region	northern Chile
+idea	region	Kerala
+idea	region	Hokkaido
+idea	region	the Scottish Highlands
+idea	region	Anatolia
+idea	region	Sicily
+idea	region	Ghana
+idea	region	Mongolia
+idea	region	Quebec
+idea	region	Java
+idea	region	Oaxaca
+idea	region	Morocco
+idea	region	Finnish Lapland
+idea	region	the Philippines
+idea	region	Patagonia
+idea	region	Vietnam
+idea	region	Iceland
+idea	region	Poland
+idea	region	Portugal
+idea	anchor	ladder
+idea	anchor	bicycle
+idea	anchor	glove
+idea	anchor	mirror
+idea	anchor	bread
+idea	anchor	magnet
+idea	anchor	compass
+idea	anchor	hinge
+idea	anchor	fog
+idea	anchor	bee
+idea	anchor	copper
+idea	anchor	thread
+idea	anchor	lamp
+idea	anchor	drum
+idea	anchor	bridge
+idea	anchor	key
+idea	anchor	feather
+idea	anchor	brick
+idea	anchor	cloud
+idea	anchor	mushroom
